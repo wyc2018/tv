@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d28d8f20-85e8-43b2-9124-4865c1745f48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/1pw8.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/fj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/g6qm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/ikbb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/kcel.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/pnzh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/ptest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/origin/xymc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/j3zp.json" beforeDir="false" afterPath="$PROJECT_DIR$/origin/j3zp.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,16 +52,19 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -68,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1675390406339</updated>
       <workItem from="1675390408574" duration="1977000" />
-      <workItem from="1675648320892" duration="239000" />
+      <workItem from="1675648320892" duration="960000" />
+      <workItem from="1676873465929" duration="349000" />
     </task>
     <servers />
   </component>
